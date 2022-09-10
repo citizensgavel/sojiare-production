@@ -1,1 +1,0 @@
-/*! For license information please see generateHeadTags.js.LICENSE.txt */
