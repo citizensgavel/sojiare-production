@@ -2,8 +2,8 @@
   "files": {
     "runtime~app.js": "/sojiare-production/static/js/runtime~app.ac826bff.js",
     "runtime~app.js.map": "/sojiare-production/static/js/runtime~app.ac826bff.js.map",
-    "app.js": "/sojiare-production/static/js/app.509b3b36.chunk.js",
-    "app.js.map": "/sojiare-production/static/js/app.509b3b36.chunk.js.map",
+    "app.js": "/sojiare-production/static/js/app.c356a35f.chunk.js",
+    "app.js.map": "/sojiare-production/static/js/app.c356a35f.chunk.js.map",
     "static/js/2.1ab21be7.chunk.js": "/sojiare-production/static/js/2.1ab21be7.chunk.js",
     "static/js/2.1ab21be7.chunk.js.map": "/sojiare-production/static/js/2.1ab21be7.chunk.js.map",
     "static/js/3.fde2c9b4.chunk.js": "/sojiare-production/static/js/3.fde2c9b4.chunk.js",
@@ -79,6 +79,6 @@
   "entrypoints": [
     "static/js/runtime~app.ac826bff.js",
     "static/js/2.1ab21be7.chunk.js",
-    "static/js/app.509b3b36.chunk.js"
+    "static/js/app.c356a35f.chunk.js"
   ]
 }
